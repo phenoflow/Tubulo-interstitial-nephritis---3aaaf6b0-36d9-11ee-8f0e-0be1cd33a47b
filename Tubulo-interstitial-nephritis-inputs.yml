@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/chronic-tubulo-interstitial-nephritis---primary.py
+inputModule3:
+  class: File
+  path: python/other-tubulo-interstitial-nephritis---primary.py
+inputModule4:
+  class: File
+  path: python/renal-tubulo-interstitial-nephritis---primary.py
+inputModule5:
+  class: File
+  path: python/tubulo-interstitial-nephritis-disordr---primary.py
+inputModule6:
+  class: File
+  path: python/tubulo-interstitial-nephritis-induced---primary.py
+inputModule7:
+  class: File
+  path: python/nephropathy-tubulo-interstitial-nephritis---primary.py
+inputModule8:
+  class: File
+  path: python/tubulointerstitial---primary.py
+inputModule9:
+  class: File
+  path: python/tubulo-interstitial-nephritis-unspecified---secondary.py
+inputModule10:
+  class: File
+  path: python/nephropathy-tubulo-interstitial-nephritis---secondary.py
+inputModule11:
+  class: File
+  path: python/tubulo-interstitial-nephritis-substance---secondary.py
+inputModule12:
+  class: File
+  path: python/tubulo-interstitial-nephritis-induced---secondary.py
+inputModule13:
+  class: File
+  path: python/tubulo-interstitial-nephritis-classified---secondary.py
+inputModule14:
+  class: File
+  path: python/renal-tubulo-interstitial-nephritis---secondary.py
+inputModule15:
+  class: File
+  path: python/other-tubulo-interstitial-nephritis---secondary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
